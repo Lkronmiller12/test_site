@@ -1,5 +1,34 @@
-h1 {
-    font-weight: bold;
-    color: blueviolet;
+
+.BoxOne {
+    border: 1px solid red;
+    display: flex;
+    justify-content: space-between;
 }
 
+.BoxTwo {
+    border: 1px solid blue;
+    height: 50px;
+    width: 50px;
+    background-color: blue;
+}
+
+.BoxThree {
+    border: 1px solid Green;
+    height: 50px;
+    width: 50px;
+    background-color: green;
+}
+
+.BoxFour {
+    border: 1px solid yellow;
+    height: 50px;
+    width: 50px;
+    background-color: yellow;
+}
+
+.BoxFive {
+    border: 1px solid black;
+    height: 50px;
+    width: 50px;
+    background-color: black;
+}
